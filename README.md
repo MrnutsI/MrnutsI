@@ -1,8 +1,9 @@
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm esteban baigts</h1>
 <h3 align="center">A passionate developer from France</h3>
 
 
-<p align="middle"> <img src="https://komarev.com/ghpvc/?username=mrnutsi&label=Profile%20views&color=1073f4&style=flat-square" alt="mrnutsi" /> </p>
+<p align="right" alt="Coding" width="400" < img src=""https://komarev.com/ghpvc/?username=mrnutsi&label=Profile%20views&color=1073f4&style=flat-square" alt="mrnutsi" /> </p>
 
 <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrnutsi" alt="mrnutsi" /></a> </p>
 
